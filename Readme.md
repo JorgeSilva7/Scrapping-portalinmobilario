@@ -1,4 +1,4 @@
-# Scrapiing test
+# Scraping test
 
 Scapping portalinmobiliario web for search appartments in 'providencia-metropolitana' with '1 room' and '1 bath' (CONSTANTS VARS) with three criterias:
 
