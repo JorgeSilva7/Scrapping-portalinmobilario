@@ -14,17 +14,17 @@ Then, two files .json will be create with the names: criteria_posts (first 15 po
 
 Create virtualenv (optional and depend the OS)
 
-- Windows commands
+- Windows commands:
   python -m pip install virtualenv
 
-- Create virtualenv
+- Create virtualenv:
   python -m venv name_virtualenv
 
-- Actiavate virtualenv
+- Actiavate virtualenv:
   name_virtualenv\Scripts\activate
 
-- Install requeriments (libraries)
+- Install requeriments (libraries):
   python -m pip install -r requeriments.txt
 
-- Execute script
+- Execute script:
   python scrapping.py
